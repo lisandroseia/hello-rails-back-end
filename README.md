@@ -1,24 +1,51 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello-rails backend
 
-Things you may want to cover:
+> In this project, I made an api working to send data to the frontend
 
-* Ruby version
+# frontend
 
-* System dependencies
+check [this repo](https://github.com/lisandroseia/hello-rails-front-end)
 
-* Configuration
 
-* Database creation
+## Built With
 
-* Database initialization
+- Ruby, Rails, Bundler
+- Git, Github, Rubocop
+- Postgresql
 
-* How to run the test suite
+## Getting Started
 
-* Services (job queues, cache servers, search engines, etc.)
+To get a local copy up and running follow these simple example steps.
 
-* Deployment instructions
+### Prerequisites
 
-* ...
+run "git clone https://github.com/lisandroseia/rails-blog.git"
+run "cd /rails-blog"
+run "bundle install" to install dependancies
+
+### database prep
+
+run "rails db:setup"
+run "rails db:migrate"
+run "rails db:seed" if you want some default values in the project!
+### Run the app
+
+Run "rails s" to start the server
+
+👤 **Lisandro Seia**
+
+ **GitHub**  | [@lisandroseia](https://github.com/lisandroseia)
+ **LinkdIn** | [LinkedIn](https://www.linkedin.com/in/lisandro-seia-295120225/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
