@@ -9,6 +9,10 @@ gem "rails", "~> 7.0.3"
 # Use postgresql as the database for Active Record
 gem "pg", "~> 1.1"
 
+#cors permissions
+
+gem 'rack-cors'
+
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
